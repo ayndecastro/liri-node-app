@@ -5,11 +5,11 @@ Liri is like a siri app where you can request info on certain topics and it'll s
 # SPOTIFY
   -We retrieve the informations by typing "spotify-this-song" followed by the song you want to search.
 
-  -Results will include:
-    1. Artist/band name.
-    2. Song title.
-    3. Album name.
-    4. Preview URL.
+    -Results will include:
+      1. Artist/band name.
+      2. Song title.
+      3. Album name.
+      4. Preview URL.
   
  # OMDB
    -We retrieve the information by typing "movie-this" followed by the moview you want to search.
