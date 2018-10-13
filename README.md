@@ -3,7 +3,7 @@
 Liri is like a siri app where you can request info on certain topics and it'll search through the API's available, retrieve that info and display the results. In this specific app, we are using Spotify node API, OMDB, and Bands in Town Api.
 
 # SPOTIFY
-  -We retrieve the informations by typing "spotify-this-song" followed by the song you want to search.
+  -We retrieve the informations by typing "node liri" followed by "spotify-this-song" followed by the song you want to search.
 
     -Results will include:
       1. Artist/band name.
@@ -15,7 +15,7 @@ Liri is like a siri app where you can request info on certain topics and it'll s
 
 
 # OMDB
-  -We retrieve the informations by typing "movie-this" followed by the movie you want to search.
+  -We retrieve the informations by typing "node liri" followed by "movie-this" followed by the movie you want to search.
       
     -Results will include:
      1. Movie title.
@@ -30,7 +30,7 @@ Liri is like a siri app where you can request info on certain topics and it'll s
       
 
 # BANDS IN TOWN
-  -We retrieve the information by typing "concert-this" followed by the band/artists' name you want to search.
+  -We retrieve the information by typing "node liri" followed by "concert-this" followed by the band/artists' name you want to search.
   
     -results will include:
       1. Artists/Band name.
@@ -42,7 +42,7 @@ Liri is like a siri app where you can request info on certain topics and it'll s
    
    
 # DO WHAT IT SAYS
-  -we retrieve the information by typing +do-what-it-says" on the terminal.
+  -we retrieve the information by typing "node liri" followed by "do-what-it-says" on the terminal.
     
       -result will automatically default to spotify searching for "I want it that way"
       
