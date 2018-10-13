@@ -31,5 +31,5 @@ Liri is like a siri app where you can request info on certain topics and it'll s
       2. Venue.
       3. Date.
       
-   ** click the link to see the demo video **
-   [I'm an inline-style link](https://drive.google.com/file/d/1a5ypm9cZQq0LaFoBczYlmH8nGecb29Iy/view?usp=sharing)
+  
+   [ ** click me to see the demo video **](https://drive.google.com/file/d/1a5ypm9cZQq0LaFoBczYlmH8nGecb29Iy/view?usp=sharing)
