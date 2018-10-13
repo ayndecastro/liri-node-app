@@ -10,6 +10,8 @@ Liri is like a siri app where you can request info on certain topics and it'll s
       2. Song title.
       3. Album name.
       4. Preview URL.
+      
+   [ ** click me to see Spotify demo video **](https://drive.google.com/file/d/1a5ypm9cZQq0LaFoBczYlmH8nGecb29Iy/view?usp=sharing)
   
  # OMDB
    -We retrieve the information by typing "movie-this" followed by the moview you want to search.
@@ -22,6 +24,8 @@ Liri is like a siri app where you can request info on certain topics and it'll s
      5. Language.
      6. Plot.
      7. Actors.
+     
+   [ ** click me to see OMDB demo video **](https://drive.google.com/file/d/1a5ypm9cZQq0LaFoBczYlmH8nGecb29Iy/view?usp=sharing)
       
 # BANDS IN TOWN
   -We retrieve the information by typing "concert-this" followed by the band/artists' name you want to search.
@@ -32,4 +36,4 @@ Liri is like a siri app where you can request info on certain topics and it'll s
       3. Date.
       
   
-   [ ** click me to see the demo video **](https://drive.google.com/file/d/1a5ypm9cZQq0LaFoBczYlmH8nGecb29Iy/view?usp=sharing)
+   [ ** click me to see Bands in Town demo video **](https://drive.google.com/file/d/1a5ypm9cZQq0LaFoBczYlmH8nGecb29Iy/view?usp=sharing)
