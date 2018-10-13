@@ -46,4 +46,4 @@ Liri is like a siri app where you can request info on certain topics and it'll s
     
       -result will automatically default to spotify searching for "I want it that way"
       
-  [ ** click me to see Bands in Town demo video **](https://drive.google.com/file/d/120BEEiii88gmx7o-F_fAZgk6LEixXX0g/view?usp=sharing)
+  [ ** click me to see Do What it Says demo video **](https://drive.google.com/file/d/120BEEiii88gmx7o-F_fAZgk6LEixXX0g/view?usp=sharing)
